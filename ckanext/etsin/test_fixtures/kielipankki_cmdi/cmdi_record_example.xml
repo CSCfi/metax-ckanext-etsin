@@ -3,7 +3,7 @@
   xmlns="http://www.openarchives.org/OAI/2.0/" 
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/            http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
   <responseDate>2017-07-26T06:54:13Z</responseDate>
-  <request verb="ListRecords" metadataPrefix="cmdi0571">http://metalb.csc.fi/cgi-bin/que</request>
+  <request verb="ListRecords" metadataPrefix="cmdi0571">https://kielipankki.fi/md_api/que</request>
   <ListRecords>
     <record>
       <header>
