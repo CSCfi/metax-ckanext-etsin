@@ -1,3 +1,7 @@
+# Note
+
+This repository has been deprecated and replaced by https://github.com/CSCfi/fairdata-ckanext-etsin
+
 ckanext-etsin
 =============
 
